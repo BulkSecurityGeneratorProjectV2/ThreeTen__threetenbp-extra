@@ -262,14 +262,14 @@
     <repository>
       <id>sonatype-threeten-staging</id>
       <name>Sonatype OSS staging repository</name>
-      <url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>false</uniqueVersion>
       <id>sonatype-threeten-snapshot</id>
       <name>Sonatype OSS snapshot repository</name>
-      <url>http://oss.sonatype.org/content/repositories/threeten-snapshots</url>
+      <url>https://oss.sonatype.org/content/repositories/threeten-snapshots</url>
       <layout>default</layout>
     </snapshotRepository>
     <downloadUrl>http://oss.sonatype.org/content/repositories/threeten-releases</downloadUrl>
